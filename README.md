@@ -1,2 +1,5 @@
 # How_To_Create_Django_Web_App_Scratch_to_Hero_Complete
 How_To_Create_Django_Web_App_Scratch_to_Hero_Complete
+
+
+![2ndPost](https://github.com/adnanmajeed82/How_To_Create_Django_Web_App_Scratch_to_Hero_Complete/assets/49750395/61d9e28f-ed6a-4dbe-8c7d-e7a2f32eeb40)
